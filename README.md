@@ -1,3 +1,3 @@
 # Ileeto-ecomm
 
-eCommerce platform built with the MERN stack & Redux.
+eCommerce platform - MERN stack & Redux.
